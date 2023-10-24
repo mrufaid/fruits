@@ -23,6 +23,10 @@ This project involves creating a Convolutional Neural Network (CNN) model to cla
    ```bash
    pip install -r requirements.txt
    ```
+3. Run Python file:
+   ```bash
+   python my_project.py
+   ```
 
 ### Usage
 

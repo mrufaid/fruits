@@ -1,10 +1,7 @@
-Certainly! Here's a README file in markdown format for your GitHub repository:
 
+# Fruits and Vegetables Image Classification
 
-
-# USA Housing Image Classification
-
-This project involves creating a Convolutional Neural Network (CNN) model to classify images of houses into different categories. The dataset used in this project contains images of houses from various categories, and the goal is to train a model to classify them accurately.
+This project involves creating a Convolutional Neural Network (CNN) model to classify images of fruits an vegetables into different categories. The dataset used in this project contains images of fruits an vegetables from various categories, and the goal is to train a model to classify them accurately.
 
 ## Getting Started
 
@@ -18,8 +15,7 @@ This project involves creating a Convolutional Neural Network (CNN) model to cla
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/usa-housing-image-classification.git
-   cd usa-housing-image-classification
+   git clone https://https://github.com/mrufaid/fruits
    ```
 
 2. Install the required Python packages:

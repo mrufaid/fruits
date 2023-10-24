@@ -40,13 +40,13 @@ This project involves creating a Convolutional Neural Network (CNN) model to cla
 
 ## Dataset
 
-The dataset used in this project is not provided in this repository. You can obtain it from 
+The dataset used in this project is not provided in this repository. You can obtain it from https://www.kaggle.com/datasets/kritikseth/fruit-and-vegetable-image-recognition
 ## Model Details
 
 The model is a CNN architecture designed for image classification tasks. It includes convolutional layers, max-pooling layers, dense layers, and dropout layers.
 
 ## Results
-
+The model achieved an accuracy of 96.1% on the test dataset
 The project includes the following results and visualizations:
 
 - Model training and evaluation

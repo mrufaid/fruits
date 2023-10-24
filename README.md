@@ -15,7 +15,7 @@ This project involves creating a Convolutional Neural Network (CNN) model to cla
 1. Clone this repository:
 
    ```bash
-   git clone https://https://github.com/mrufaid/fruits
+   git clone https://github.com/mrufaid/fruits
    ```
 
 2. Install the required Python packages:
